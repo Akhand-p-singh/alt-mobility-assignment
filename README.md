@@ -53,3 +53,8 @@ Dataset were ready to go. Imported the dataset into Microsoft SQL Server through
   * SQL: SQLServer for data querying.
   * BI Tool: For visualization
   * Excel: For retention analysis
+
+# Cohort Analysis Report
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Akhand-p-singh/alt-mobility-assignment/refs/heads/master/Customer%20Retention%20Analysis/Customer%20Retention%20Analysis%20Chart%20Zoom%20In.png" align="center" width="1000" height="1000" >
